@@ -1,0 +1,123 @@
+button
+{
+	font-size: 18px;
+	border: none;
+}
+
+.radius
+{
+	border-radius: 0px 15px;
+}
+
+/*Flat buttons*/
+
+.flat
+{
+	background: #DDD;
+	padding: 5px 25px;
+}
+
+.flat:hover
+{
+	background: #BBB;
+}
+
+.black
+{
+	background: #000;
+	color: #FFF;
+}
+
+.black:hover
+{
+	background: #333;
+}
+
+.white
+{
+	border: 1px solid #EEE;
+	background: #FFF;
+}
+
+.white:hover
+{
+	background: #F8F8F8;
+}
+
+.medium
+{
+	background: #EEE;
+}
+
+.medium:hover
+{
+	background: #CCC;
+}
+
+/*Color buttons*/
+
+.color
+{
+	background: #C4C7FF;
+	padding: 5px 25px;
+}
+
+.color:hover
+{
+	background: #D5D8FF;
+}
+
+.blue
+{
+	background: #63AEFF;
+	color: #FFF;
+}
+
+.blue:hover
+{
+	background: #74BFFF;
+}
+
+.orange
+{
+	background: #FFB400;
+	color: #FFF;
+}
+
+.orange:hover
+{
+	background: #FFD622;
+}
+
+.red
+{
+	background: #FF2431;
+	color: #FFF;
+}
+
+.red:hover
+{
+	background: #FF4653;
+}
+
+.green
+{
+	background: #00D01D;
+	color: #FFF;
+}
+
+.green:hover
+{
+	background: #22F23F;
+}
+
+.magenta
+{
+	background: #D00043;
+	color: #FFF;
+}
+
+.magenta:hover
+{
+	background: #f22265;
+}

@@ -1,0 +1,22 @@
+label
+{
+	font-weight: bold;
+}
+
+input, textarea
+{
+	border: 1px solid #DDD;
+	background: #FFF;
+	padding: 5px 10px;
+	margin: 10px;
+}
+
+textarea
+{
+	padding: 5px 0px 0px 10px;
+}
+
+input:focus, textarea:focus
+{
+	border: 1px solid #555;
+}

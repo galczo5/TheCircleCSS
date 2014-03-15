@@ -1,0 +1,69 @@
+@font-face {
+  font-family: 'Libre Baskerville';
+  font-style: normal;
+  font-weight: 400;
+  src: url('http://themes.googleusercontent.com/static/fonts/librebaskerville/v2/pR0sBQVcY0JZc_ciXjFsK5Rby8KfwQsaipLBqMCVNtM.woff') format('woff');
+}
+
+body
+{
+	font-family: 'Libre Baskerville', serif;
+	font-size: 16px;
+}
+
+h1
+{
+	font-size: 40px;
+}
+
+h2
+{
+	font-size: 32px;
+}
+
+h3
+{
+	font-size: 24px;
+}
+
+h4
+{
+	font-size: 20px;
+}
+
+h5
+{
+	font-size: 18px;
+}
+
+h6
+{
+	font-size: 16px;
+}
+
+a:link 
+{
+	color: #AAA;
+}
+
+
+a
+{
+	text-decoration: none;
+	font-size: 16px;
+}
+
+a:visited 
+{
+	color: #777;
+}
+
+a:hover 
+{
+	color: #777;
+}
+
+a:active 
+{
+	color: #777;
+}
